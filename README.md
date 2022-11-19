@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obara501
-- 👀 I’m interested in software development. 
-- 🌱 I’m currently learning Software Engineering.
+- 👀 I’m interested in all things software. 
+- 🌱 I’m currently learning Software Development.
 - 💞️ I’m looking to collaborate on any software project with a bias on web based applications. 
 - 📫 How to reach me:- mail me at: geofreyongeta501@gmail.com
 
