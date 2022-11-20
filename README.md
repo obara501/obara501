@@ -5,7 +5,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=obara501&label=Profile%20views&color=0e75b6&style=flat" alt="obara501" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obara501" alt="obara501"&theme=dracula /></a> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="500" height="300"/>
+</div>
+
+<h3 align="left"> Github profile TRophies :</h3>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obara501&theme=onedark&row=1&column=6" alt="obara501"/></a> </p>
 
 <h3 align="left"> :man_technologist: About Me :</h3>
 
