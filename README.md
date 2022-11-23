@@ -17,11 +17,11 @@
 
 <h3 align="left">A passionate frontend developer from Kenya</h3>
 
-- 🔭 I’m currently working on **a web app for sharing laptops among students.**
+- 🔭 I’m currently working on **ann electric electronics store website.**
 
-- 🌱 I’m currently learning **software engineering.**
+- 🌱 I’m currently learning **advanced javascript and react .**
 
-- 👯 I’m looking to collaborate on **web and android pps**
+- 👯 I’m looking to collaborate on **web and android apps projects **
 
 - 👨‍💻 All of my projects are available at [www.geofreyongeta.co.ke](www.geofreyongeta.co.ke)
 
