@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **ann electric electronics store website.**
 
-- 🌱 I’m currently learning **advanced javascript and react .**
+- 🌱 I’m currently learning **the MERN stack and ES6.**
 
 - 👯 I’m looking to collaborate on **web and android apps projects **
 
