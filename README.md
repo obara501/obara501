@@ -17,7 +17,7 @@
 
 <h3 align="left">A passionate frontend developer from Kenya</h3>
 
-- 🔭 I’m currently working on **ann electric electronics store website.**
+- 🔭 I’m currently working on **a remake of the ann electric website at [www.geofreyongeta.co.ke](www.geofreyongeta.co.ke)**
 
 - 🌱 I’m currently learning **the MERN stack and ES6.**
 
