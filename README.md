@@ -11,7 +11,7 @@
 
 <h3 align="left"> Github Profile Trophies :</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obara501&theme=onedark&row=1&column=6" alt="obara501"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obara501&theme=onedark&row=1&column=7" alt="obara501"/></a> </p>
 
 <h3 align="left"> :man_technologist: About Me :</h3>
 
