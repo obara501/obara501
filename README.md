@@ -25,11 +25,11 @@
 
 - 👨‍💻 All of my projects are available at [www.geofreyongeta.co.ke](www.geofreyongeta.co.ke)
 
-- 💬 Ask me about **the software dev life cycle**
+- 💬 Ask me about **the software development life cycle**
 
 - 📫 How to reach me **geofreyongeta501@gmail.com**
 
-- ⚡ Fun fact **I think of software like wet clay.**
+- ⚡ Fun fact **I once brought a jackass and a honeycomb into a brothel…"**
 
 <h3 align="left"> 🤙 Connect With Me :</h3>
 <p align="left">
