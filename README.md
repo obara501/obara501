@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="250"/>
-</div>
 <h1 align="center">Konnichiwa 👋, I'm J3ff</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=obara501&label=Profile%20views&color=0e75b6&style=flat" alt="obara501" /> </p>
