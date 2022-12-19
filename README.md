@@ -17,13 +17,13 @@
 
 <h3 align="left">A mildly passionate full stack developer from Kenya</h3>
 
-- 🔭 I’m currently working on **a remake of the ann electric website at [https://github.com/obara501/annelectric_remake](https://github.com/obara501/annelectric_remake)**
+- 🔭 I’m currently working on **a remake of the ann electric website at [https://annelectric.herokuapp.com/](https://annelectric.herokuapp.com/)**
 
 - 🌱 I’m currently learning **the MERN stack and ES6.**
 
 - 👯 I’m looking to collaborate on **web and android apps projects **
 
-- 👨‍💻 All of my projects are available at [www.geofreyongeta.co.ke](www.geofreyongeta.co.ke)
+- 👨‍💻 All of my projects are available at [https://github.com/obara501](https://github.com/obara501)
 
 - 💬 Ask me about **the software development life cycle**
 
