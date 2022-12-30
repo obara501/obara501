@@ -37,8 +37,6 @@
 <a href="https://instagram.com/oba.r.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oba.r.a" height="30" width="40" /></a>
 <a href="https://dribbble.com/obara501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="obara501" height="30" width="40" /></a>
 <a href="https://www.behance.net/geofrey obara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="geofrey obara" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/obara501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="obara501" height="30" width="40" /></a>
-</p>
 
 <h3 align="left"> :hammer_and_wrench: Languages and Tools :</h3>
 <p align="left"> 
