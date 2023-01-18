@@ -5,10 +5,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="500" height="300"/>
 </div>
+<br>
 
-<h3 align="left"> Github Profile Trophies :</h3>
+<h3 align="center"> Github Profile Trophies :</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obara501&theme=onedark&row=1&column=7" alt="obara501"/></a> </p>
+<br>
 
 <h3 align="left"> :man_technologist: About Me :</h3>
 
@@ -37,7 +39,8 @@
 <a href="https://instagram.com/oba.r.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oba.r.a" height="30" width="40" /></a>
 <a href="https://dribbble.com/obara501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="obara501" height="30" width="40" /></a>
 <a href="https://www.behance.net/geofrey obara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="geofrey obara" height="30" width="40" /></a>
-
+<br>
+  
 <h3 align="left"> :hammer_and_wrench: Languages and Tools :</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -75,15 +78,18 @@
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 </p>
-
+<br>
 
 <h3 align="left"> 💰 Support me:</h3>
 <p><a href="https://www.buymeacoffee.com/obara501"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="obara501" /></a></p><br><br>
+<br>
 
 <h3 align="left"> :fire: My Stats :</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obara501&theme=dark&show_icons=true&locale=en&layout=compact" alt="obara501" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obara501&theme=dark&show_icons=true&locale=en" alt="obara501" /></p>
+<br>
+
 <h3 align="left"> ⚡ My Streaks :</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obara501&theme=dark" alt="obara501" /></p>
