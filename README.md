@@ -20,8 +20,6 @@
 
 - 🌱 I’m currently learning **the MERN stack and ES6.**
 
-- 👯 I’m looking to collaborate on **web and android apps projects **
-
 - 👨‍💻 All of my projects are available at [https://github.com/obara501](https://github.com/obara501)
 
 - 💬 Ask me about **the software development life cycle**
