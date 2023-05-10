@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **a remake of the ann electric website at [https://annelectric.herokuapp.com/](https://annelectric.herokuapp.com/)**
 
-- 🌱 I’m currently learning **the MERN stack and ES6.**
+- 🌱 I’m currently learning **the Laravel framework.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/obara501](https://github.com/obara501)
 
