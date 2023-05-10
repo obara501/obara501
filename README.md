@@ -14,7 +14,7 @@
 
 <h3 align="left"> :man_technologist: About Me :</h3>
 
-<h3 align="left">A mildly passionate full stack developer from Kenya</h3>
+<h3 align="left">A passionate full stack developer from Kenya</h3>
 
 - 🔭 I’m currently working on **a remake of the ann electric website at [https://annelectric.herokuapp.com/](https://annelectric.herokuapp.com/)**
 
