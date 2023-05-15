@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **the Laravel framework.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/obara501](https://github.com/obara501)
+- 👨‍💻 You can view my portfolio at [https://obaraportfolio.netlify.app/](https://obaraportfolio.netlify.app/)
 
 - 💬 Ask me about **the software development life cycle**
 
