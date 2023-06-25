@@ -16,7 +16,7 @@
 
 <h3 align="left">A passionate full stack developer from Kenya</h3>
 
-- 🔭 I’m currently working on **a remake of the ann electric website at [https://annelectric.herokuapp.com/](https://annelectric.herokuapp.com/)**
+- 🔭 I’m currently working on **a digitalised procurement and inventory management system at [https://github.com/Zanadigm/ALPS](https://github.com/Zanadigm/ALPS)
 
 - 🌱 I’m currently learning **the Laravel framework.**
 
