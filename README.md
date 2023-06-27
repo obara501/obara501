@@ -22,7 +22,7 @@
 
 - 👨‍💻 You can view my portfolio at [https://obaraforlio.netlify.app/](https://obarafolio.netlify.app/)
 
-- 💬 Ask me about **the software development life cycle**
+- 💬 Ask me about **the SDLC**
 
 - 📫 How to reach me **geofreyongeta501@gmail.com**
 
