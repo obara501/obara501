@@ -81,6 +81,9 @@
 <p><a href="https://www.buymeacoffee.com/obara501"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="obara501" /></a></p><br><br>
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3 align="left"> :fire: My Stats :</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obara501&theme=dark&show_icons=true&locale=en&layout=compact" alt="obara501" /></p>
