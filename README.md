@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **geofreyongeta501@gmail.com**
 
-- ⚡ Fun fact **I once brought a jackass and a honeycomb into a brothel…"**
+- ⚡ Fun fact **I once brought a jackass and a honeycomb into a…"**
 
 <h3 align="left"> 🤙 Connect With Me :</h3>
 <p align="left">
